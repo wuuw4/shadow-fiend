@@ -35,7 +35,7 @@ namespace WpfApp9
             }
             else
             {
-                MessageBox.Show("иди нахуй просто написал");
+                MessageBox.Show("иди нахуй просто написал певарызьшлыопарлджьыаоп");
 
             }
         }
